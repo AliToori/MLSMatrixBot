@@ -1,0 +1,8 @@
+{
+  "Settings": {
+    "UserName": "asdasd",
+    "Password": "asdasd",
+    "Counties": ["Dallas county", "Tarrant county", "Fannin county", "Grayson county", "Henderson county", "Cooke county", "Denton county", "Wise county", "Ellis County", "Hood county", "Parker county", "Navarro county", "Kaufman county", "Van Zandt County", "Hunt county", "Lamar county", "Red River county", "Anderson county", "Johnson county"],
+    "BannedOwners": ["Llc", "LLC", "llc", "City", "Family", "Trust", "Ltd", "City of", "Holding", "Holdings", "INC", "Corp", "Corporation", "Investments", "Partners", "Inc", "ltd", "Limited", "limited partnership", "District", "county", "water", "Hoa", "Poa"]
+  }
+}
